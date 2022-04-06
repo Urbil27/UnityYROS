@@ -1,5 +1,4 @@
-﻿using System.Diagnostics;
-/*
+﻿/*
 © Siemens AG, 2017-2018
 Author: Dr. Martin Bischoff (martin.bischoff@siemens.com)
 
@@ -39,7 +38,6 @@ namespace RosSharp.RosBridgeClient
 
         protected override void ReceiveMessage(MessageTypes.Geometry.PoseStamped message)
         {
-            Debug.log(message);
             position = GetPosition(message).Ros2Unity();
             rotation = GetRotation(message).Ros2Unity();
             isMessageReceived = true;

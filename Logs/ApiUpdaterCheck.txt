@@ -354,3 +354,508 @@ C# parse time         : 230ms
 candidates check time : 35ms
 console write time    : 0ms
 
+[api-updater (non-obsolete-error-filter)] 30/03/2022 9:06:19 : Starting /home/urbilmelin/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 91,315ms
+moved types parse time: 54ms
+candidates parse time : 1ms
+C# parse time         : 227ms
+candidates check time : 39ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 30/03/2022 9:21:38 : Starting /home/urbilmelin/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 99,494ms
+moved types parse time: 58ms
+candidates parse time : 1ms
+C# parse time         : 230ms
+candidates check time : 52ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 30/03/2022 9:22:28 : Starting /home/urbilmelin/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 44,789ms
+moved types parse time: 57ms
+candidates parse time : 1ms
+C# parse time         : 213ms
+candidates check time : 35ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 30/03/2022 9:23:35 : Starting /home/urbilmelin/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 87,584ms
+moved types parse time: 62ms
+candidates parse time : 1ms
+C# parse time         : 246ms
+candidates check time : 40ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 30/03/2022 10:08:17 : Starting /home/urbilmelin/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 80,09ms
+moved types parse time: 56ms
+candidates parse time : 1ms
+C# parse time         : 230ms
+candidates check time : 37ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 30/03/2022 10:08:44 : Starting /home/urbilmelin/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 42,446ms
+moved types parse time: 56ms
+candidates parse time : 1ms
+C# parse time         : 211ms
+candidates check time : 45ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 30/03/2022 10:10:45 : Starting /home/urbilmelin/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 46,804ms
+moved types parse time: 54ms
+candidates parse time : 1ms
+C# parse time         : 220ms
+candidates check time : 38ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 30/03/2022 10:16:26 : Starting /home/urbilmelin/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 48,308ms
+moved types parse time: 76ms
+candidates parse time : 1ms
+C# parse time         : 213ms
+candidates check time : 34ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 30/03/2022 14:32:44 : Starting /home/urbilmelin/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 88,301ms
+moved types parse time: 56ms
+candidates parse time : 1ms
+C# parse time         : 271ms
+candidates check time : 47ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 31/03/2022 8:19:40 : Starting /home/urbilmelin/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] Exception caught while loading types from /home/urbilmelin/Araña/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll (some types may not be loaded)
+	Exception of type 'System.Reflection.ReflectionTypeLoadException' was thrown.
+	  at (wrapper managed-to-native) System.Reflection.Assembly.GetTypes(System.Reflection.Assembly,bool)
+  at System.Reflection.Assembly.GetTypes () [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at APIUpdater.NonObsoleteApiUpdaterDetector.ExtraInfoParser+<LoadTypesWithMovedFromAttributeAsync>d__3.MoveNext () [0x000c8] in <f4220ae6b779455d88a01cbcc3c694c1>:0 
+	Could not load file or assembly 'UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+
+[api-updater (non-obsolete-error-filter)] Exception caught while loading types from /home/urbilmelin/Araña/Library/ScriptAssemblies/Unity.Sysroot.Linux_x86_64.dll (some types may not be loaded)
+	Exception of type 'System.Reflection.ReflectionTypeLoadException' was thrown.
+	  at (wrapper managed-to-native) System.Reflection.Assembly.GetTypes(System.Reflection.Assembly,bool)
+  at System.Reflection.Assembly.GetTypes () [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at APIUpdater.NonObsoleteApiUpdaterDetector.ExtraInfoParser+<LoadTypesWithMovedFromAttributeAsync>d__3.MoveNext () [0x000c8] in <f4220ae6b779455d88a01cbcc3c694c1>:0 
+	Could not load file or assembly 'UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+
+[api-updater (non-obsolete-error-filter)] Exception caught while loading types from /home/urbilmelin/Araña/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll (some types may not be loaded)
+	Exception of type 'System.Reflection.ReflectionTypeLoadException' was thrown.
+	  at (wrapper managed-to-native) System.Reflection.Assembly.GetTypes(System.Reflection.Assembly,bool)
+  at System.Reflection.Assembly.GetTypes () [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at APIUpdater.NonObsoleteApiUpdaterDetector.ExtraInfoParser+<LoadTypesWithMovedFromAttributeAsync>d__3.MoveNext () [0x000c8] in <f4220ae6b779455d88a01cbcc3c694c1>:0 
+	Could not load file or assembly 'UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 73,093ms
+moved types parse time: 57ms
+candidates parse time : 1ms
+C# parse time         : 380ms
+candidates check time : 47ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 31/03/2022 9:00:50 : Starting /home/urbilmelin/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 84,724ms
+moved types parse time: 52ms
+candidates parse time : 1ms
+C# parse time         : 212ms
+candidates check time : 34ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 31/03/2022 9:17:53 : Starting /home/urbilmelin/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 88,883ms
+moved types parse time: 52ms
+candidates parse time : 1ms
+C# parse time         : 210ms
+candidates check time : 39ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 31/03/2022 10:01:17 : Starting /home/urbilmelin/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 85,727ms
+moved types parse time: 52ms
+candidates parse time : 1ms
+C# parse time         : 209ms
+candidates check time : 32ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 31/03/2022 10:09:28 : Starting /home/urbilmelin/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 49,649ms
+moved types parse time: 59ms
+candidates parse time : 1ms
+C# parse time         : 222ms
+candidates check time : 33ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 04/04/2022 13:51:26 : Starting /home/urbilmelin/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 98,399ms
+moved types parse time: 52ms
+candidates parse time : 1ms
+C# parse time         : 215ms
+candidates check time : 36ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 04/04/2022 13:55:34 : Starting /home/urbilmelin/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 47,799ms
+moved types parse time: 51ms
+candidates parse time : 1ms
+C# parse time         : 275ms
+candidates check time : 115ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 04/04/2022 13:55:36 : Starting /home/urbilmelin/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 44,856ms
+moved types parse time: 50ms
+candidates parse time : 1ms
+C# parse time         : 251ms
+candidates check time : 123ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 04/04/2022 13:55:38 : Starting /home/urbilmelin/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 46,088ms
+moved types parse time: 52ms
+candidates parse time : 1ms
+C# parse time         : 272ms
+candidates check time : 120ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 04/04/2022 14:12:42 : Starting /home/urbilmelin/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 51,358ms
+moved types parse time: 52ms
+candidates parse time : 1ms
+C# parse time         : 278ms
+candidates check time : 117ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 04/04/2022 14:13:03 : Starting /home/urbilmelin/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 51,91ms
+moved types parse time: 54ms
+candidates parse time : 1ms
+C# parse time         : 197ms
+candidates check time : 39ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 04/04/2022 14:13:35 : Starting /home/urbilmelin/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 47,391ms
+moved types parse time: 53ms
+candidates parse time : 1ms
+C# parse time         : 200ms
+candidates check time : 37ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 04/04/2022 14:16:21 : Starting /home/urbilmelin/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 48,657ms
+moved types parse time: 50ms
+candidates parse time : 1ms
+C# parse time         : 280ms
+candidates check time : 116ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 04/04/2022 14:16:40 : Starting /home/urbilmelin/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 47,33ms
+moved types parse time: 50ms
+candidates parse time : 1ms
+C# parse time         : 273ms
+candidates check time : 128ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 04/04/2022 14:17:06 : Starting /home/urbilmelin/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 45,647ms
+moved types parse time: 50ms
+candidates parse time : 1ms
+C# parse time         : 263ms
+candidates check time : 118ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 04/04/2022 14:17:43 : Starting /home/urbilmelin/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 48,134ms
+moved types parse time: 49ms
+candidates parse time : 1ms
+C# parse time         : 254ms
+candidates check time : 107ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 04/04/2022 14:18:04 : Starting /home/urbilmelin/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 50,486ms
+moved types parse time: 50ms
+candidates parse time : 1ms
+C# parse time         : 252ms
+candidates check time : 109ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 04/04/2022 14:18:34 : Starting /home/urbilmelin/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 52,971ms
+moved types parse time: 49ms
+candidates parse time : 1ms
+C# parse time         : 256ms
+candidates check time : 116ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 04/04/2022 14:33:54 : Starting /home/urbilmelin/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 89,317ms
+moved types parse time: 53ms
+candidates parse time : 1ms
+C# parse time         : 243ms
+candidates check time : 87ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 04/04/2022 14:34:22 : Starting /home/urbilmelin/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 50,262ms
+moved types parse time: 51ms
+candidates parse time : 1ms
+C# parse time         : 233ms
+candidates check time : 76ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 04/04/2022 14:34:45 : Starting /home/urbilmelin/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 46,215ms
+moved types parse time: 52ms
+candidates parse time : 1ms
+C# parse time         : 222ms
+candidates check time : 61ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 05/04/2022 8:41:23 : Starting /home/urbilmelin/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] Exception caught while loading types from /home/urbilmelin/Araña/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll (some types may not be loaded)
+	Exception of type 'System.Reflection.ReflectionTypeLoadException' was thrown.
+	  at (wrapper managed-to-native) System.Reflection.Assembly.GetTypes(System.Reflection.Assembly,bool)
+  at System.Reflection.Assembly.GetTypes () [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at APIUpdater.NonObsoleteApiUpdaterDetector.ExtraInfoParser+<LoadTypesWithMovedFromAttributeAsync>d__3.MoveNext () [0x000c8] in <f4220ae6b779455d88a01cbcc3c694c1>:0 
+	Could not load file or assembly 'UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+
+[api-updater (non-obsolete-error-filter)] Exception caught while loading types from /home/urbilmelin/Araña/Library/ScriptAssemblies/Unity.Sysroot.Linux_x86_64.dll (some types may not be loaded)
+	Exception of type 'System.Reflection.ReflectionTypeLoadException' was thrown.
+	  at (wrapper managed-to-native) System.Reflection.Assembly.GetTypes(System.Reflection.Assembly,bool)
+  at System.Reflection.Assembly.GetTypes () [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at APIUpdater.NonObsoleteApiUpdaterDetector.ExtraInfoParser+<LoadTypesWithMovedFromAttributeAsync>d__3.MoveNext () [0x000c8] in <f4220ae6b779455d88a01cbcc3c694c1>:0 
+	Could not load file or assembly 'UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+
+[api-updater (non-obsolete-error-filter)] Exception caught while loading types from /home/urbilmelin/Araña/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll (some types may not be loaded)
+	Exception of type 'System.Reflection.ReflectionTypeLoadException' was thrown.
+	  at (wrapper managed-to-native) System.Reflection.Assembly.GetTypes(System.Reflection.Assembly,bool)
+  at System.Reflection.Assembly.GetTypes () [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at APIUpdater.NonObsoleteApiUpdaterDetector.ExtraInfoParser+<LoadTypesWithMovedFromAttributeAsync>d__3.MoveNext () [0x000c8] in <f4220ae6b779455d88a01cbcc3c694c1>:0 
+	Could not load file or assembly 'UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 79,542ms
+moved types parse time: 54ms
+candidates parse time : 1ms
+C# parse time         : 254ms
+candidates check time : 65ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 05/04/2022 8:41:47 : Starting /home/urbilmelin/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] Exception caught while loading types from /home/urbilmelin/Araña/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll (some types may not be loaded)
+	Exception of type 'System.Reflection.ReflectionTypeLoadException' was thrown.
+	  at (wrapper managed-to-native) System.Reflection.Assembly.GetTypes(System.Reflection.Assembly,bool)
+  at System.Reflection.Assembly.GetTypes () [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at APIUpdater.NonObsoleteApiUpdaterDetector.ExtraInfoParser+<LoadTypesWithMovedFromAttributeAsync>d__3.MoveNext () [0x000c8] in <f4220ae6b779455d88a01cbcc3c694c1>:0 
+	Could not load file or assembly 'UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+
+[api-updater (non-obsolete-error-filter)] Exception caught while loading types from /home/urbilmelin/Araña/Library/ScriptAssemblies/Unity.Sysroot.Linux_x86_64.dll (some types may not be loaded)
+	Exception of type 'System.Reflection.ReflectionTypeLoadException' was thrown.
+	  at (wrapper managed-to-native) System.Reflection.Assembly.GetTypes(System.Reflection.Assembly,bool)
+  at System.Reflection.Assembly.GetTypes () [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at APIUpdater.NonObsoleteApiUpdaterDetector.ExtraInfoParser+<LoadTypesWithMovedFromAttributeAsync>d__3.MoveNext () [0x000c8] in <f4220ae6b779455d88a01cbcc3c694c1>:0 
+	Could not load file or assembly 'UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+
+[api-updater (non-obsolete-error-filter)] Exception caught while loading types from /home/urbilmelin/Araña/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll (some types may not be loaded)
+	Exception of type 'System.Reflection.ReflectionTypeLoadException' was thrown.
+	  at (wrapper managed-to-native) System.Reflection.Assembly.GetTypes(System.Reflection.Assembly,bool)
+  at System.Reflection.Assembly.GetTypes () [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at APIUpdater.NonObsoleteApiUpdaterDetector.ExtraInfoParser+<LoadTypesWithMovedFromAttributeAsync>d__3.MoveNext () [0x000c8] in <f4220ae6b779455d88a01cbcc3c694c1>:0 
+	Could not load file or assembly 'UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 34,467ms
+moved types parse time: 52ms
+candidates parse time : 1ms
+C# parse time         : 232ms
+candidates check time : 80ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 05/04/2022 8:47:50 : Starting /home/urbilmelin/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 84,714ms
+moved types parse time: 58ms
+candidates parse time : 1ms
+C# parse time         : 249ms
+candidates check time : 74ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 05/04/2022 8:48:00 : Starting /home/urbilmelin/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 44,917ms
+moved types parse time: 57ms
+candidates parse time : 1ms
+C# parse time         : 207ms
+candidates check time : 67ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 05/04/2022 8:55:32 : Starting /home/urbilmelin/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 80,497ms
+moved types parse time: 63ms
+candidates parse time : 1ms
+C# parse time         : 219ms
+candidates check time : 38ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 05/04/2022 10:20:04 : Starting /home/urbilmelin/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 47,896ms
+moved types parse time: 50ms
+candidates parse time : 1ms
+C# parse time         : 196ms
+candidates check time : 37ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 05/04/2022 12:05:05 : Starting /home/urbilmelin/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] Exception caught while loading types from /home/urbilmelin/Araña/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll (some types may not be loaded)
+	Exception of type 'System.Reflection.ReflectionTypeLoadException' was thrown.
+	  at (wrapper managed-to-native) System.Reflection.Assembly.GetTypes(System.Reflection.Assembly,bool)
+  at System.Reflection.Assembly.GetTypes () [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at APIUpdater.NonObsoleteApiUpdaterDetector.ExtraInfoParser+<LoadTypesWithMovedFromAttributeAsync>d__3.MoveNext () [0x000c8] in <f4220ae6b779455d88a01cbcc3c694c1>:0 
+	Could not load file or assembly 'UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+
+[api-updater (non-obsolete-error-filter)] Exception caught while loading types from /home/urbilmelin/Araña/Library/ScriptAssemblies/Unity.Sysroot.Linux_x86_64.dll (some types may not be loaded)
+	Exception of type 'System.Reflection.ReflectionTypeLoadException' was thrown.
+	  at (wrapper managed-to-native) System.Reflection.Assembly.GetTypes(System.Reflection.Assembly,bool)
+  at System.Reflection.Assembly.GetTypes () [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at APIUpdater.NonObsoleteApiUpdaterDetector.ExtraInfoParser+<LoadTypesWithMovedFromAttributeAsync>d__3.MoveNext () [0x000c8] in <f4220ae6b779455d88a01cbcc3c694c1>:0 
+	Could not load file or assembly 'UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+
+[api-updater (non-obsolete-error-filter)] Exception caught while loading types from /home/urbilmelin/Araña/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll (some types may not be loaded)
+	Exception of type 'System.Reflection.ReflectionTypeLoadException' was thrown.
+	  at (wrapper managed-to-native) System.Reflection.Assembly.GetTypes(System.Reflection.Assembly,bool)
+  at System.Reflection.Assembly.GetTypes () [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at APIUpdater.NonObsoleteApiUpdaterDetector.ExtraInfoParser+<LoadTypesWithMovedFromAttributeAsync>d__3.MoveNext () [0x000c8] in <f4220ae6b779455d88a01cbcc3c694c1>:0 
+	Could not load file or assembly 'UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 75,376ms
+moved types parse time: 54ms
+candidates parse time : 1ms
+C# parse time         : 248ms
+candidates check time : 36ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 05/04/2022 12:15:23 : Starting /home/urbilmelin/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 43,768ms
+moved types parse time: 51ms
+candidates parse time : 1ms
+C# parse time         : 270ms
+candidates check time : 109ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 05/04/2022 13:15:23 : Starting /home/urbilmelin/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 49,902ms
+moved types parse time: 51ms
+candidates parse time : 1ms
+C# parse time         : 192ms
+candidates check time : 38ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 06/04/2022 8:17:37 : Starting /home/urbilmelin/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] Exception caught while loading types from /home/urbilmelin/Araña/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll (some types may not be loaded)
+	Exception of type 'System.Reflection.ReflectionTypeLoadException' was thrown.
+	  at (wrapper managed-to-native) System.Reflection.Assembly.GetTypes(System.Reflection.Assembly,bool)
+  at System.Reflection.Assembly.GetTypes () [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at APIUpdater.NonObsoleteApiUpdaterDetector.ExtraInfoParser+<LoadTypesWithMovedFromAttributeAsync>d__3.MoveNext () [0x000c8] in <f4220ae6b779455d88a01cbcc3c694c1>:0 
+	Could not load file or assembly 'UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+
+[api-updater (non-obsolete-error-filter)] Exception caught while loading types from /home/urbilmelin/Araña/Library/ScriptAssemblies/Unity.Sysroot.Linux_x86_64.dll (some types may not be loaded)
+	Exception of type 'System.Reflection.ReflectionTypeLoadException' was thrown.
+	  at (wrapper managed-to-native) System.Reflection.Assembly.GetTypes(System.Reflection.Assembly,bool)
+  at System.Reflection.Assembly.GetTypes () [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at APIUpdater.NonObsoleteApiUpdaterDetector.ExtraInfoParser+<LoadTypesWithMovedFromAttributeAsync>d__3.MoveNext () [0x000c8] in <f4220ae6b779455d88a01cbcc3c694c1>:0 
+	Could not load file or assembly 'UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+
+[api-updater (non-obsolete-error-filter)] Exception caught while loading types from /home/urbilmelin/Araña/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll (some types may not be loaded)
+	Exception of type 'System.Reflection.ReflectionTypeLoadException' was thrown.
+	  at (wrapper managed-to-native) System.Reflection.Assembly.GetTypes(System.Reflection.Assembly,bool)
+  at System.Reflection.Assembly.GetTypes () [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at APIUpdater.NonObsoleteApiUpdaterDetector.ExtraInfoParser+<LoadTypesWithMovedFromAttributeAsync>d__3.MoveNext () [0x000c8] in <f4220ae6b779455d88a01cbcc3c694c1>:0 
+	Could not load file or assembly 'UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 73,094ms
+moved types parse time: 54ms
+candidates parse time : 1ms
+C# parse time         : 239ms
+candidates check time : 39ms
+console write time    : 0ms
+
